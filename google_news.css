@@ -1,0 +1,41 @@
+.google-news {
+    -webkit-border-radius: 10px;
+    -webkit-box-shadow: 3px 3px 3px #BFBFBF;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #BFBFBF;
+    padding: 2em;
+    margin-bottom: 2em;
+}
+.google-search-text {
+    -webkit-border-radius: 2px;
+    -webkit-box-shadow: 0px 0px 2px #000;
+    border-radius: 2px;
+    border: 1px solid #BFBFBF;
+    box-shadow: 0px 0px 2px #BFBFBF;
+    color: #7E7E7E;
+    font-family: Georgia, serif;
+    font-size: 1em;
+    font-style: italic;
+    height: 15px;
+    padding: 7px;
+    width: 35em;
+    margin-left: 12em;
+}
+.google-search-button {
+    height: 31px;
+}
+.google-news h2 {
+    margin-left: 12em;
+}
+.google-search-results {
+    padding-top: 30px;
+}
+.google-search-results img.loading {
+    width: 15em;
+    height: auto;
+    margin-left: 24em;
+}
+.google-search-results .big {
+    font-size: 160%;
+}
