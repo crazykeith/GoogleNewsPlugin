@@ -39,3 +39,8 @@
 .google-search-results .big {
     font-size: 160%;
 }
+.error {
+    color: red;
+    font-size: 1.5em;
+    margin-left: 10em;
+}
